@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project Menu</string>
+    <string name="textTampilanUtama">Pertemuan Ke 4</string>
+    <string name="textMenu1">Tampilan Menu 1</string>
+    <string name="textMenu2">Tampilan Menu 2</string>
+    <string name="textMenu3">Tampilan Menu 3</string>
+</resources>
